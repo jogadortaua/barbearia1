@@ -8,3 +8,17 @@ backgraund: #CCCCCC;
 h1{
 text-aling: center;
 }
+p {
+  texte-aling: center ;
+}
+em strong {
+  color: red;
+}
+#missão {
+  fonte-seze: 20px;
+}
+
+
+em strong { 
+color: #FF0000;
+}
